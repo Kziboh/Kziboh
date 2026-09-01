@@ -2,9 +2,9 @@
 
 **Full-Stack Engineer & AI Systems Builder.** I build production interfaces, and I also build AI-powered products, from retrieval pipelines to real-time collaborative systems.
 
-🔭 Senior Full-Stack Engineer at **CcHub**, where I built the SaaS platform powering community hubs and spaces across five African countries, and mentor engineers on performance and code quality.
+🔭 Senior Full-Stack Engineer at **CcHUB**, where I built the SaaS platform powering community hubs and spaces across five African countries, and mentor engineers on performance and code quality.
 
-## What I've shipped at CcHub
+## What I've shipped at CcHUB
 
 🌍 **Community Hub SaaS Platform** — built the platform powering community hubs and spaces across five African countries.
 
