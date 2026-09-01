@@ -2,7 +2,7 @@
 
 **Frontend Engineer & AI Systems Builder.** I build production interfaces, and I also build AI-powered products, from retrieval pipelines to real-time collaborative systems.
 
-🔭 Senior Frontend Engineer & Technical Lead at **CcHub**, leading frontend architecture across products shipped in multiple African countries, and mentoring engineers on performance and code quality.
+🔭 Senior FullStack Engineer at **CcHub**, leading frontend architecture across products shipped in multiple African countries, and mentoring engineers on performance and code quality.
 
 ⚡ On the side, I design and ship full-stack AI products end to end: retrieval pipelines, real-time collaborative editing systems, and the interfaces that sit on top of them.
 
