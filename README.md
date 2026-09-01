@@ -1,20 +1,43 @@
-# Hi, I'm Karen Ziboh
+# Hey, I'm Karen 👋
 
-Frontend Engineer & AI Systems Builder. I build production interfaces and design the retrieval/AI systems behind them, rather than treating the two as separate skillsets.
+**Frontend Engineer & AI Systems Builder.** I build production interfaces *and* design the retrieval/AI systems behind them, because I'm not convinced those should be separate skillsets.
 
-Currently a Senior Frontend Engineer & Technical Lead at CcHub, where I lead frontend architecture across products used in multiple African countries, and mentor engineers on performance and code quality.
+🔭 Senior Frontend Engineer & Technical Lead at **CcHub**, leading frontend architecture across products shipped in multiple African countries, and mentoring engineers on performance and code quality.
 
-Outside of that, I design and ship full-stack AI products end to end — retrieval pipelines, real-time collaborative editing systems, and the interfaces that sit on top of them. A few things I care about getting right:
+⚡ On the side, I design and ship full-stack AI products end to end: retrieval pipelines, real-time collaborative editing systems, and the interfaces that sit on top of them.
 
-- **Retrieval that's actually designed, not defaulted.** I've built a custom RAG pipeline using question-indexed chunking (generating hypothetical questions per chunk at index time, then matching queries against those rather than raw text), a deliberate improvement over naive chunk-and-embed, not a LangChain quick-start.
-- **Real-time systems that handle conflict properly.** I've worked with Yjs/CRDTs to support concurrent multi-user editing over WebSockets in production.
-- **Frontend that doesn't fall apart under real usage.** 5+ years building with React, Next.js, and TypeScript, with a habit of owning quality past the unit-test line.
+## What I actually care about
 
-### What I'm working on publicly right now
-I'm in the process of extracting and rebuilding demo versions of production patterns I've worked on — clean, standalone repos that show the actual architecture decisions rather than a finished product. Check pinned repos for what's ready.
+🧠 **Retrieval that's designed, not defaulted.**
+I built a custom RAG pipeline using question-indexed chunking, generating hypothetical questions per chunk at index time, then matching queries against *those* instead of raw text. A deliberate upgrade over naive chunk-and-embed, not a LangChain quick-start copy-paste.
 
-### Stack
-`React` `Next.js` `TypeScript` `Tailwind` `GraphQL` `SWR` `FastAPI` `LangChain` `GPT-4` `ChromaDB` `Yjs` `Docker` `AWS`
+🔄 **Real-time systems that handle conflict properly.**
+Shipped Yjs/CRDT-based concurrent multi-user editing over WebSockets, in production, not a toy demo.
 
-### Elsewhere
-[LinkedIn](https://www.linkedin.com/in/karen-ziboh/)
+🎯 **Frontend that survives contact with real users.**
+5+ years in React, Next.js, and TypeScript, with a habit of owning quality well past the unit-test line.
+
+## 🚧 Building in public right now
+
+I'm extracting and rebuilding demo versions of production patterns I've worked on: clean, standalone repos that show the actual architecture decisions, not just a finished product screenshot. Check pinned repos for what's live.
+
+## Stack
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+## Find me elsewhere
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ziboh/)
+
+---
+
+🌱 *Currently deepening AWS and exploring Svelte 5 on the side.*
