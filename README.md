@@ -1,6 +1,6 @@
 # Hey, I'm Karen 👋
 
-**Frontend Engineer & AI Systems Builder.** I build production interfaces *and* design the retrieval/AI systems behind them, because I'm not convinced those should be separate skillsets.
+**Frontend Engineer & AI Systems Builder.** I build production interfaces *and* design the retrieval/AI systems behind them.
 
 🔭 Senior Frontend Engineer & Technical Lead at **CcHub**, leading frontend architecture across products shipped in multiple African countries, and mentoring engineers on performance and code quality.
 
@@ -37,3 +37,7 @@ I'm extracting and rebuilding demo versions of production patterns I've worked o
 ## Find me elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ziboh/)
+
+---
+
+🌱 *Currently deepening AWS and exploring Svelte 5 on the side.*
