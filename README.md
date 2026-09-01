@@ -1,10 +1,18 @@
 # Hey, I'm Karen 👋
 
-**Frontend Engineer & AI Systems Builder.** I build production interfaces, and I also build AI-powered products, from retrieval pipelines to real-time collaborative systems.
+**Full-Stack Engineer & AI Systems Builder.** I build production interfaces, and I also build AI-powered products, from retrieval pipelines to real-time collaborative systems.
 
-🔭 Senior FullStack Engineer at **CcHub**, leading frontend architecture across products shipped in multiple African countries, and mentoring engineers on performance and code quality.
+🔭 Senior Full-Stack Engineer at **CcHub**, where I built the SaaS platform powering community hubs and spaces across five African countries, and mentor engineers on performance and code quality.
 
-⚡ On the side, I design and ship full-stack AI products end to end: retrieval pipelines, real-time collaborative editing systems, and the interfaces that sit on top of them.
+## What I've shipped at CcHub
+
+🌍 **Community Hub SaaS Platform** — built the platform powering community hubs and spaces across five African countries.
+
+🎯 **AI Career Pathing Dashboard** — internal tool that analyzes employee performance against goals, recommends courses and experiential learning based on skill gaps, tracks readiness for internal roles, and feeds directly into KPI goals.
+
+🤖 **AI Chat Assistant for Creative Professionals** — built with the CEP team, sponsored by the Gates Foundation. Helps creative professionals navigate policy and regulatory landscapes.
+
+🗃️ **Data Harbour** *(in progress)* — contributing to a data provenance project for proprietary data in Africa. More on this soon.
 
 ## What I actually care about
 
