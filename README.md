@@ -37,7 +37,3 @@ I'm extracting and rebuilding demo versions of production patterns I've worked o
 ## Find me elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ziboh/)
-
----
-
-🌱 *Currently deepening AWS and exploring Svelte 5 on the side.*
